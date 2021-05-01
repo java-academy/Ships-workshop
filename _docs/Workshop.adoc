@@ -168,11 +168,11 @@ Warsztat https://git.epam.com/tomasz_borek/ja-materials/-/blob/102-gitlab-rest-a
 
 === Angular
 
-Warsztat dostępny https://github.com/Kamil-Jankowski/Ships-workshop/blob/master/_docs/Angular.adoc[tutaj]
+Warsztat dostępny https://github.com/java-academy/Ships-workshop/blob/master/_docs/Angular.adoc[tutaj]
 
 === Spring-Boot
 
-Warsztat dostępny https://gitlab.com/choooobert/Spring-workshop/-/blob/workshop/warsztaty_instrukcja.adoc[tutaj]
+Warsztat dostępny https://github.com/java-academy/Spring-workshop/blob/workshop/warsztaty_instrukcja.adoc[tutaj]
 
 == Część 3. Prezentacja działania
 
@@ -188,8 +188,8 @@ Nasza aplikacja:
 . Pobierz poniższe repozytoria:
 +
 ----
-git clone https://github.com/Kamil-Jankowski/Ships-workshop.git
-git clone https://gitlab.com/Kamil-Jankowski/ships-workshop-backend.git
+git clone https://github.com/java-academy/Ships-workshop.git
+git clone https://github.com/java-academy/Ships-workshop-backend.git
 ----
 +
 . Uruchom pobrane repozytoria
